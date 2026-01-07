@@ -23,5 +23,5 @@
 // undefined is an datatype and null is an object
 
 console.log(typeof undefined); // output :undefined
-console.log(typeof null); / object
+console.log(typeof null); // object
  
